@@ -1,6 +1,6 @@
 {% set navigation = collections.all | eleventyNavigation %}
 <header class="top-nav">
-    <img src="images/top_logo_shadow.png" alt="Logo" width="150" height="50">
+    
     <div class="intro">
         <div>
             
@@ -11,6 +11,7 @@
     </div>
     <nav class="nav-main">
         <ul class="nav-list">
+            <li><img src="images/top_logo_shadow.png" alt="Logo"></li>
             {% for link in navigation %}
             <li><a href="{{ link.url | url }}" class="link">{{ link.title }}</a></li>
             {% endfor %}
