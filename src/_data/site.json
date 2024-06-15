@@ -1,29 +1,29 @@
 {   
     "author": {
-        "firstName": "John",
-        "lastName": "Smith",
-        "email": "foobar@gmail.com",
-        "twitterHandle": "tannerdolby",
-        "about": "Freelance photographer interested in film and cinematography"
+        "firstName": "Queenswood Cabinet and Renovation",
+        "lastName": "3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1",
+        "email": "3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1",
+        "twitterHandle": "3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1",
+        "about": "Queenswood Cabinet and Renovation 3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1"
     },
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby",
-        "github": "https://github.com/tannerdolby"
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "dribbble": "https://dribbble.com",
+        "github": "https://github.com"
     },
     "pageMetadata": {
         "home": {
-            "content": "A photo gallery template with stock photos provided from Pexels. Add or remove images from the grid and customize your own image gallery!"
+            "content": "Queenswood Cabinet and Renovation 3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1"
         },
         "gallery": {
-            "content": "A collection of images from John Smith's gallery."
+            "content": "Queenswood Cabinet and Renovation 3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1"
         },
         "featured": {
-            "content": "from John Smith's gallery."
+            "content": "Queenswood Cabinet and Renovation 3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1"
         },
         "about": {
-            "content": "A page about John Smith, and photography. This template is currently the default version so add your own about me page info here."
+            "content": "Queenswood Cabinet and Renovation 3107 KENNEDY RD SCARBOROUGH ON M1V 4Y1"
         }
 
     }
